@@ -13,4 +13,5 @@ The Twitter data used in this study are collected by Sampled stream API [v1](htt
 
 ## Methods
 Please refer to this paper.
+
 Zhang C, Xu S, Li Z, Hu S. Understanding Concerns, Sentiments, and Disparities Among Population Groups During the COVID-19 Pandemic Via Twitter Data Mining: Large-scale Cross-sectional Study. J Med Internet Res. 2021 Mar 5;23(3):e26482. doi: 10.2196/26482. PMID: 33617460; PMCID: PMC7939057.
